@@ -151,6 +151,11 @@ hash = "27a7fa575b51c8e5366a5faf88686603c449f82bdda5979af678103e8000615c"
 metafile = true
 
 [[files]]
+file = "mods/simply_tensura_additions-1.2.0.pw.toml"
+hash = "f3b83352c8e9a25d91eeda55fbc7bac19a1854da1e475b6172c386c92db8da53"
+metafile = true
+
+[[files]]
 file = "mods/slimethroneextras-neoforge-2.1.2.1.pw.toml"
 hash = "fbd256401d1ab159058ba164f11610255097765c59fe04bb14a70a7c2fbe09fe"
 metafile = true
@@ -176,6 +181,11 @@ hash = "40670fda7acabad03fa3dd5ddffa266f1b0cf4d1c2c8150c619323818dd6bd54"
 metafile = true
 
 [[files]]
+file = "mods/tennogamenolife-1.1.4.pw.toml"
+hash = "32d03a1cf71ed0c1b0e31f468be04d9d009e6bd8782cb9422dd8a36c2ed374be"
+metafile = true
+
+[[files]]
 file = "mods/tensura-neoforge-2.0.1.3.pw.toml"
 hash = "d36b9ef191af43b98cb76aeacbaf079f72f87455ce150f9cb489386f6e394d33"
 metafile = true
@@ -196,6 +206,11 @@ hash = "e0ba1dd3e82ad8be5b3810d5334469e93c8be80bf1cd97a633e6372819424773"
 metafile = true
 
 [[files]]
+file = "mods/tensura_kumodesu-neoforge-2.0.3-1.21.1-hotfix2.pw.toml"
+hash = "a7cb7e7d34691d55ffa4836e391c3659de727473c4ce508d2aaa51cda93dda09"
+metafile = true
+
+[[files]]
 file = "mods/tensura_neb-neoforge-2.0.0.3.pw.toml"
 hash = "979ead79809c9b765469fd7a243986a3101bd21236d57313d7ca5dbd69abb432"
 metafile = true
@@ -208,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-neoforge-1.21.1-4.1.0.8.pw.toml"
 hash = "76f45674fab248217c72c4c319bcb8d5171c64e3427de50011080a4e71c5e049"
+metafile = true
+
+[[files]]
+file = "mods/trarcane-neoforge-1.0.pw.toml"
+hash = "18135a5e0b6089fe3489bbf985493c8d7b531d5147d8dfe06c998f015b0f6175"
 metafile = true
 
 [[files]]

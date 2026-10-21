@@ -1,0 +1,12 @@
+name = "Tensura: KumoDesu 2.0.3"
+filename = "tensura_kumodesu-neoforge-2.0.3-1.21.1-HOTFIX2.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/7976/62/tensura_kumodesu-neoforge-2.0.3-1.21.1-HOTFIX2.jar"
+hash-format = "sha1"
+hash = "992b9a23f91be869cb0645b486d7371111c0116a"
+
+[update.curseforge]
+file-id = 7976062
+project-id = 1160952

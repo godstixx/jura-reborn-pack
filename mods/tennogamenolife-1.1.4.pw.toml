@@ -1,0 +1,12 @@
+name = "Tensura: No Game No Life 1.1.4"
+filename = "tennogamenolife-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8431/541/tennogamenolife-1.1.4.jar"
+hash-format = "sha1"
+hash = "82cb47dbb5cf0524fdb0a456b82f52a2885b3e7e"
+
+[update.curseforge]
+file-id = 8431541
+project-id = 1232792
