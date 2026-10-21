@@ -171,6 +171,11 @@ hash = "64885ad5eddf667bb58305e9a862edfa800c05333103d921d29674af338e1241"
 metafile = true
 
 [[files]]
+file = "mods/structurecompass-1.21.1-4.2.1.pw.toml"
+hash = "40670fda7acabad03fa3dd5ddffa266f1b0cf4d1c2c8150c619323818dd6bd54"
+metafile = true
+
+[[files]]
 file = "mods/tensura-neoforge-2.0.1.3.pw.toml"
 hash = "d36b9ef191af43b98cb76aeacbaf079f72f87455ce150f9cb489386f6e394d33"
 metafile = true

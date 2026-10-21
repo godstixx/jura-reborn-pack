@@ -1,0 +1,12 @@
+name = "Structure Compass 4.2.1"
+filename = "StructureCompass-1.21.1-4.2.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8439/673/StructureCompass-1.21.1-4.2.1.jar"
+hash-format = "sha1"
+hash = "e1204b7f9e2650b1a1969efb043586d90bddd063"
+
+[update.curseforge]
+file-id = 8439673
+project-id = 319598
