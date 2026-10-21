@@ -1,0 +1,12 @@
+name = "Black List Skill Addon 2.0.0"
+filename = "blacklistskill-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8351/524/blacklistskill-2.0.0.jar"
+hash-format = "sha1"
+hash = "59c67a6eae24bc5da86b27d9d7eab3508f3aec20"
+
+[update.curseforge]
+file-id = 8351524
+project-id = 1330181

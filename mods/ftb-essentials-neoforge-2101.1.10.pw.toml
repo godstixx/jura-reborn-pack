@@ -1,0 +1,12 @@
+name = "FTB Essentials 2101.1.10"
+filename = "ftb-essentials-neoforge-2101.1.10.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8442/866/ftb-essentials-neoforge-2101.1.10.jar"
+hash-format = "sha1"
+hash = "fa7b3d1b06c0285dcbe8e53a27d44cd7f8d15726"
+
+[update.curseforge]
+file-id = 8442866
+project-id = 410811

@@ -1,0 +1,12 @@
+name = "JEI 19.69.0.457"
+filename = "jei-1.21.1-neoforge-19.69.0.457.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9267/535/jei-1.21.1-neoforge-19.69.0.457.jar"
+hash-format = "sha1"
+hash = "d413c60d16f5afd3b7acaa2deb54ce8c7b959c59"
+
+[update.curseforge]
+file-id = 9267535
+project-id = 238222

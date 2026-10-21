@@ -1,0 +1,12 @@
+name = "ManasCore 4.0.0.2"
+filename = "manascore-neoforge-4.0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8022/425/manascore-neoforge-4.0.0.2.jar"
+hash-format = "sha1"
+hash = "f11a0062d7829e26a8705183762a5e0f2d022dd3"
+
+[update.curseforge]
+file-id = 8022425
+project-id = 619025

@@ -1,0 +1,12 @@
+name = "AppleSkin 3.0.5"
+filename = "appleskin-neoforge-mc1.21-3.0.5.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/5586/600/appleskin-neoforge-mc1.21-3.0.5.jar"
+hash-format = "sha1"
+hash = "057b483076431549ca8257095e498e42321abb60"
+
+[update.curseforge]
+file-id = 5586600
+project-id = 248787

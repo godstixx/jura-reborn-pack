@@ -1,0 +1,12 @@
+name = "Tensura Skill Wiki 1.0.2.7"
+filename = "foxablazeaqzl_wiki-1.0.2.7.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9109/354/foxablazeaqzl_wiki-1.0.2.7.jar"
+hash-format = "sha1"
+hash = "51938102860f50d48a41a8c64cd5ce5f32910ab6"
+
+[update.curseforge]
+file-id = 9109354
+project-id = 1570862

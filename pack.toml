@@ -1,0 +1,13 @@
+name = "Jura Reborn"
+author = "Jura Reborn"
+version = "1.3.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "eb6d761865bb8f1108ee3788cbf4b42a9726e1446933d5296e512fc8ea603aaa"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.264"

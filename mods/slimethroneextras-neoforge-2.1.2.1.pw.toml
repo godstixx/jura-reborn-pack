@@ -1,0 +1,12 @@
+name = "SlimeThrone Extras 2.1.2.1"
+filename = "SlimeThroneExtras-neoforge-2.1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8313/927/SlimeThroneExtras-neoforge-2.1.2.1.jar"
+hash-format = "sha1"
+hash = "506354ffcf888c573440cee273f49aa7d72a340c"
+
+[update.curseforge]
+file-id = 8313927
+project-id = 1249067
