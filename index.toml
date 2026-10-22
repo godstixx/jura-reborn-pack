@@ -235,3 +235,7 @@ file = "mods/yungsapi-1.21.1-neoforge-5.1.9.pw.toml"
 hash = "3d949dc6eec1577650e21ebe2fa01e9a949b67e7e364db49043b5fc70ffe50c9"
 metafile = true
 
+[[files]]
+file = "config/ftbchunks-client.snbt"
+hash = "08daf37dcf2137ec21709a17fe8d1a438d44c5b6a37fd9faceb7da36ced87469"
+
