@@ -1,0 +1,12 @@
+name = "Tensura: Reincarnated 2.0.1.4"
+filename = "tensura-neoforge-2.0.1.4.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9289/888/tensura-neoforge-2.0.1.4.jar"
+hash-format = "sha1"
+hash = "2fafb5dbe85824ef5a6c3ec7b3cbc18db103eb24"
+
+[update.curseforge]
+file-id = 9289888
+project-id = 643695

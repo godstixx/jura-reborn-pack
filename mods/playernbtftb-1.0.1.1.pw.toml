@@ -1,0 +1,12 @@
+name = "PlayerNBT Quests (FTB Quests) 1.0.1.1"
+filename = "playernbtftb-1.0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/7911/610/playernbtftb-1.0.1.1.jar"
+hash-format = "sha1"
+hash = "7842add3e3f14725df6a6fd00c35614dccae033f"
+
+[update.curseforge]
+file-id = 7911610
+project-id = 1340833

@@ -146,6 +146,11 @@ hash = "7145961098754457379c2d3837d66c57d007e542032da6ab162edf41c2e6eae5"
 metafile = true
 
 [[files]]
+file = "mods/playernbtftb-1.0.1.1.pw.toml"
+hash = "361f42059304251fb6dc8a927b4c80d74ac5a3680a7e842e71a776e175a00a80"
+metafile = true
+
+[[files]]
 file = "mods/searchables-neoforge-1.21.1-1.0.2.pw.toml"
 hash = "27a7fa575b51c8e5366a5faf88686603c449f82bdda5979af678103e8000615c"
 metafile = true
@@ -186,8 +191,8 @@ hash = "32d03a1cf71ed0c1b0e31f468be04d9d009e6bd8782cb9422dd8a36c2ed374be"
 metafile = true
 
 [[files]]
-file = "mods/tensura-neoforge-2.0.1.3.pw.toml"
-hash = "d36b9ef191af43b98cb76aeacbaf079f72f87455ce150f9cb489386f6e394d33"
+file = "mods/tensura-neoforge-2.0.1.4.pw.toml"
+hash = "5961ca3abc090b70251717e47e3249ea0069bdc67695c58e12ca678dd3965b3f"
 metafile = true
 
 [[files]]
