@@ -6,6 +6,11 @@ hash = "ecf9b623545e617f062ec16a63d4557c9cba0bc2a4be4b71924ab99a017375ae"
 metafile = true
 
 [[files]]
+file = "mods/another_furniture-neoforge-4.0.3.pw.toml"
+hash = "8334be800e03a4fa8f950fc4de151efa7461a50c3067a06f27da9132f27c1f21"
+metafile = true
+
+[[files]]
 file = "mods/appleskin-neoforge-mc1.21-3.0.5.pw.toml"
 hash = "ba4ac9d712340973abe3b02b9d847b41015df98c24e77bdc494b2d2fd456f520"
 metafile = true
@@ -41,8 +46,18 @@ hash = "444755ce8966665d7adeee2435ddbb8f507e9444b2cbbb3b935e772258a4acbd"
 metafile = true
 
 [[files]]
+file = "mods/enchantinginfuser-v21.1.4-1.21.1-neoforge.pw.toml"
+hash = "905be189a3772f721dc2539b22780dcc4b14cb4cf9721f10d26e36c2eb225a1e"
+metafile = true
+
+[[files]]
 file = "mods/entityculling-neoforge-1.11.3-mc1.21.1.pw.toml"
 hash = "c80c392db5c5a572b8d4a722ac805422872f81316c9bd406afa040ee68cdbd33"
+metafile = true
+
+[[files]]
+file = "mods/farmersdelight-1.21.1-1.3.4.pw.toml"
+hash = "ac84ccd9af4201293af2968dd058131e7bbee879e6262640328bb3cbdf8b914a"
 metafile = true
 
 [[files]]
@@ -116,6 +131,11 @@ hash = "12b6d0e2e590391ca60cac85504eeb866b2bd108f1101d73dc015421eabec517"
 metafile = true
 
 [[files]]
+file = "mods/jura_codex-1.0.1.pw.toml"
+hash = "b641adc5eea34cfb5bea4a49ba069dd1cd66aec13c89794fd77a0543b9b1db2e"
+metafile = true
+
+[[files]]
 file = "mods/lootr-neoforge-1.21.1-1.11.38.127.pw.toml"
 hash = "1f8487ffc832b2b7ee6a690a938a3d3781644ce8cb71cdbecb694d7603231653"
 metafile = true
@@ -123,6 +143,26 @@ metafile = true
 [[files]]
 file = "mods/manascore-neoforge-4.0.0.2.pw.toml"
 hash = "4598d2fd56a44c777789c35384c9b37d26e6498bc907d1cbb977aac1473f6840"
+metafile = true
+
+[[files]]
+file = "mods/mcw-lights-1.1.5-mc1.21.1neoforge.pw.toml"
+hash = "62b022e3d0aee4e325b9013abc1cd8d8c0df3aac446c427943de8a0911d2d152"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.pw.toml"
+hash = "e7140bde47b58a0e52c3843c4ac9a25d902d9fd552bb10efff8d32dbf4cc97da"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.pw.toml"
+hash = "d795509479c1311b1638b60f1b669b939fc0bd2581f52afcd35f7643577a92b8"
+metafile = true
+
+[[files]]
+file = "mods/mcw-roofs-2.3.2-mc1.21.1neoforge.pw.toml"
+hash = "b6647cff2c7702200e4763d5b091bd258445281d87c6323b93c8e3da5b7a96f1"
 metafile = true
 
 [[files]]
@@ -148,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/playernbtftb-1.0.1.1.pw.toml"
 hash = "361f42059304251fb6dc8a927b4c80d74ac5a3680a7e842e71a776e175a00a80"
+metafile = true
+
+[[files]]
+file = "mods/puzzleslib-v21.1.65-mc1.21.1-neoforge.pw.toml"
+hash = "e786702da6440fe3173f47398ab92bea55000ab80066a06a70d74e1d01ab0f7b"
 metafile = true
 
 [[files]]
@@ -178,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticatedcore-1.21.1-1.5.16.2422.pw.toml"
 hash = "64885ad5eddf667bb58305e9a862edfa800c05333103d921d29674af338e1241"
+metafile = true
+
+[[files]]
+file = "mods/sophisticatedstorage-1.21.1-1.6.8.2196.pw.toml"
+hash = "c85ad2b8b97fe57aca0e51c664b3e179bd5375f71fac73c44cb8c524a593356a"
 metafile = true
 
 [[files]]
@@ -228,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-neoforge-1.21.1-4.1.0.8.pw.toml"
 hash = "76f45674fab248217c72c4c319bcb8d5171c64e3427de50011080a4e71c5e049"
+metafile = true
+
+[[files]]
+file = "mods/tide-neoforge-1.21.1-2.1.1.pw.toml"
+hash = "6421d88504a70d808d3baa3df10a1fb6540cd731af94980f0e388af13ae5a292"
 metafile = true
 
 [[files]]

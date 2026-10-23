@@ -1,0 +1,12 @@
+name = "Another Furniture 4.0.3"
+filename = "another_furniture-neoforge-4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8955/672/another_furniture-neoforge-4.0.3.jar"
+hash-format = "sha1"
+hash = "36e2b147d86c31262bf8f7c571aeea683d71173d"
+
+[update.curseforge]
+file-id = 8955672
+project-id = 610492

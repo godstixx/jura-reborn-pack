@@ -1,0 +1,12 @@
+name = "Tide 2.1.1"
+filename = "tide-neoforge-1.21.1-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8570/111/tide-neoforge-1.21.1-2.1.1.jar"
+hash-format = "sha1"
+hash = "6916fb787c0c3da859166b57a9aaac287d7ed144"
+
+[update.curseforge]
+file-id = 8570111
+project-id = 884685

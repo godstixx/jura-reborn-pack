@@ -1,0 +1,12 @@
+name = "Enchanting Infuser 21.1.4"
+filename = "EnchantingInfuser-v21.1.4-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/7844/709/EnchantingInfuser-v21.1.4-1.21.1-NeoForge.jar"
+hash-format = "sha1"
+hash = "62bfa1cf50abeb3034cd4477e6c995e16ab7965c"
+
+[update.curseforge]
+file-id = 7844709
+project-id = 551151
