@@ -21,8 +21,18 @@ hash = "9cb2fb12c3c0c2320f3a596c023c4e681bef9172f7555660df8168bf2796827b"
 metafile = true
 
 [[files]]
+file = "mods/balm-neoforge-1.21.1-21.0.66.pw.toml"
+hash = "453131cd42d9729cf29bc16f58638b7af6a5ef177c53e44d41ac71cd1c8f963f"
+metafile = true
+
+[[files]]
 file = "mods/blacklistskill-2.0.0.pw.toml"
 hash = "27acdc798fa1c3b0dd8edc09064c105ac953c39220cd566abe84d3544fc2b8f9"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-neoforge-1.21.1-21.1.81.pw.toml"
+hash = "077508c5b07d10fec92ab9e30dec06e2ee81bd66afe654d14fcd16d1a34ddbc1"
 metafile = true
 
 [[files]]
@@ -41,6 +51,11 @@ hash = "011a59cc30ffbf05598173ba6d20c027c4cd2e04b45a3313a573dbf5cb6b26ff"
 metafile = true
 
 [[files]]
+file = "mods/craftingtweaks-neoforge-1.21.1-21.1.11.pw.toml"
+hash = "af1cfa7acc01547d137a8775fc117d7a50eaf29338354f47156c0a52d236b253"
+metafile = true
+
+[[files]]
 file = "mods/curios-neoforge-9.5.1-1.21.1.pw.toml"
 hash = "444755ce8966665d7adeee2435ddbb8f507e9444b2cbbb3b935e772258a4acbd"
 metafile = true
@@ -48,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/enchantinginfuser-v21.1.4-1.21.1-neoforge.pw.toml"
 hash = "905be189a3772f721dc2539b22780dcc4b14cb4cf9721f10d26e36c2eb225a1e"
+metafile = true
+
+[[files]]
+file = "mods/enchdesc-neoforge-1.21.1-21.1.11.pw.toml"
+hash = "76d180f949d7dfc0e5f17a4d99f0d86fe21a186973f9808e5d30d81dc2c38200"
 metafile = true
 
 [[files]]
@@ -103,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-neoforge-2101.1.15.pw.toml"
 hash = "027e3d78481568a82fa5c69183f1bf534498dff66290e77fc2c2f59edcfb800b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat-neoforge-21.1.13.pw.toml"
+hash = "a7ee72e279ce5ff2742206ee2398ea3db9b79713e93b81ed581bf35bab020194"
 metafile = true
 
 [[files]]
@@ -188,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/playernbtftb-1.0.1.1.pw.toml"
 hash = "361f42059304251fb6dc8a927b4c80d74ac5a3680a7e842e71a776e175a00a80"
+metafile = true
+
+[[files]]
+file = "mods/prickle-neoforge-1.21.1-21.1.11.pw.toml"
+hash = "403110578913ed706a0fddcdd2dbf3a65be158f0dcde533220e13abacd1f7fa9"
 metafile = true
 
 [[files]]
