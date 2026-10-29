@@ -166,8 +166,8 @@ hash = "12b6d0e2e590391ca60cac85504eeb866b2bd108f1101d73dc015421eabec517"
 metafile = true
 
 [[files]]
-file = "mods/jura_codex-1.5.0.pw.toml"
-hash = "aabcd9d65682e2cc883802e3aaf08120e3c42e5172b592f6af725b63dcf41904"
+file = "mods/jura_codex-1.6.0.pw.toml"
+hash = "2e9f55c19a640dfb08c6471c66d7d053c63720928ebe76257c0085eff9ea187d"
 metafile = true
 
 [[files]]
@@ -213,11 +213,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix-neoforge-5.27.26-mc1.21.1.pw.toml"
 hash = "ec90338c02eeb9cb7da3746ea8b69ea3ff170167a04eb3c34da4a3c5d00603de"
-metafile = true
-
-[[files]]
-file = "mods/modonomicon-1.21.1-neoforge-1.120.7.pw.toml"
-hash = "e197ec265c49d0f2de8cc0bc0176537d19c7b1cd9be9b8874243ca1a0661fe75"
 metafile = true
 
 [[files]]
