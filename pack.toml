@@ -1,12 +1,12 @@
 name = "Jura Reborn"
 author = "Jura Reborn"
-version = "1.7.3"
+version = "1.8.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "262bfcd2cd27d0dfe12221a3ae863674ded28a6f4684e329a3e8a81c94fa2008"
+hash = "842e009b402d2f55500d32e590d1994ff0d6dc88e6e05f79a7d670a351048eb7"
 
 [versions]
 minecraft = "1.21.1"

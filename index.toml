@@ -61,6 +61,16 @@ hash = "444755ce8966665d7adeee2435ddbb8f507e9444b2cbbb3b935e772258a4acbd"
 metafile = true
 
 [[files]]
+file = "mods/easy_npc-neoforge-1.21.1-7.17.1.pw.toml"
+hash = "7e8940e17db714fc37e00adf8d17b1186d24268092d44a35117d7abaf1e59aa6"
+metafile = true
+
+[[files]]
+file = "mods/easy_npc_config_ui-neoforge-1.21.1-7.17.1.pw.toml"
+hash = "0c4f62968f51594ebde30607352407daccc78956569b3240d43c567dcf41f552"
+metafile = true
+
+[[files]]
 file = "mods/enchantinginfuser-v21.1.4-1.21.1-neoforge.pw.toml"
 hash = "905be189a3772f721dc2539b22780dcc4b14cb4cf9721f10d26e36c2eb225a1e"
 metafile = true
@@ -91,8 +101,8 @@ hash = "66039efa280073c60a24355f05ecdb47e5a38f5615fc5fa5131137a08a94b798"
 metafile = true
 
 [[files]]
-file = "mods/foxablazeultimate-1.0.6.4.pw.toml"
-hash = "95e213b0441d3fa67b87cc53799294a4a8928fd56940b9ae59301e5e266eb96c"
+file = "mods/foxablazeultimate-1.0.6.6.pw.toml"
+hash = "82aaa7df994ff8a830f56a4219d9c222a8f09174d5b000c6427a49f19588fa58"
 metafile = true
 
 [[files]]
@@ -156,13 +166,18 @@ hash = "12b6d0e2e590391ca60cac85504eeb866b2bd108f1101d73dc015421eabec517"
 metafile = true
 
 [[files]]
-file = "mods/jura_codex-1.4.1.pw.toml"
-hash = "60307dfa2d7fc5d724bdcf658da81345c8130a926ba1303a3f080f14d0edccd9"
+file = "mods/jura_codex-1.5.0.pw.toml"
+hash = "aabcd9d65682e2cc883802e3aaf08120e3c42e5172b592f6af725b63dcf41904"
 metafile = true
 
 [[files]]
 file = "mods/lootr-neoforge-1.21.1-1.11.38.127.pw.toml"
 hash = "1f8487ffc832b2b7ee6a690a938a3d3781644ce8cb71cdbecb694d7603231653"
+metafile = true
+
+[[files]]
+file = "mods/manas_ascendance-neoforge-1.1.0-beta.pw.toml"
+hash = "fbdba6a9d1eedaafa8d3fa7a5ea0c447444b09b3616ac3717b419ad506570c4b"
 metafile = true
 
 [[files]]
@@ -198,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix-neoforge-5.27.26-mc1.21.1.pw.toml"
 hash = "ec90338c02eeb9cb7da3746ea8b69ea3ff170167a04eb3c34da4a3c5d00603de"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon-1.21.1-neoforge-1.120.7.pw.toml"
+hash = "e197ec265c49d0f2de8cc0bc0176537d19c7b1cd9be9b8874243ca1a0661fe75"
 metafile = true
 
 [[files]]
@@ -316,8 +336,8 @@ hash = "6421d88504a70d808d3baa3df10a1fb6540cd731af94980f0e388af13ae5a292"
 metafile = true
 
 [[files]]
-file = "mods/trarcane-neoforge-1.0.pw.toml"
-hash = "18135a5e0b6089fe3489bbf985493c8d7b531d5147d8dfe06c998f015b0f6175"
+file = "mods/trarcane-neoforge-1.1.pw.toml"
+hash = "70253d7c4b2ae0470e3071ec800c79bb32970102a7248587b4bb46f0469ce80f"
 metafile = true
 
 [[files]]

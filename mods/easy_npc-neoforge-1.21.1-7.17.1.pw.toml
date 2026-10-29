@@ -1,0 +1,12 @@
+name = "Easy NPC: Core 7.17.1"
+filename = "easy_npc-neoforge-1.21.1-7.17.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9310/906/easy_npc-neoforge-1.21.1-7.17.1.jar"
+hash-format = "sha1"
+hash = "99285c5897bffdaa88869f7b6262883e4270d477"
+
+[update.curseforge]
+file-id = 9310906
+project-id = 1308987

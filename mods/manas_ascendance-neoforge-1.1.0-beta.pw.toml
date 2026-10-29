@@ -1,0 +1,12 @@
+name = "Manas: Ascendance 1.1.0-beta"
+filename = "manas_ascendance-neoforge-1.1.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9290/707/manas_ascendance-neoforge-1.1.0-beta.jar"
+hash-format = "sha1"
+hash = "00d22713ff5fbfea1806370de83f17def86dadf0"
+
+[update.curseforge]
+file-id = 9290707
+project-id = 1639441

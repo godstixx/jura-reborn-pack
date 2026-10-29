@@ -1,0 +1,12 @@
+name = "FoxAblaze Ultimate 1.0.6.6"
+filename = "foxablazeultimate-1.0.6.6.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9332/277/foxablazeultimate-1.0.6.6.jar"
+hash-format = "sha1"
+hash = "f336a4c886b3b5e2e99e20aa434ad5e47573ae19"
+
+[update.curseforge]
+file-id = 9332277
+project-id = 1540951

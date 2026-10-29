@@ -1,0 +1,12 @@
+name = "Tensura: Arcane 1.1"
+filename = "trarcane-neoforge-1.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9065/52/trarcane-neoforge-1.1.jar"
+hash-format = "sha1"
+hash = "3799907d4d49d10fbae8a2765e221ca81f37b2b4"
+
+[update.curseforge]
+file-id = 9065052
+project-id = 1567211
