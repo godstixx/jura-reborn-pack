@@ -166,8 +166,8 @@ hash = "12b6d0e2e590391ca60cac85504eeb866b2bd108f1101d73dc015421eabec517"
 metafile = true
 
 [[files]]
-file = "mods/jura_codex-1.6.0.pw.toml"
-hash = "2e9f55c19a640dfb08c6471c66d7d053c63720928ebe76257c0085eff9ea187d"
+file = "mods/jura_codex-1.7.0.pw.toml"
+hash = "87d50e1538ff534432a56b21daaac38fe7ccff70f155cc74fc5ce1cef3737c4c"
 metafile = true
 
 [[files]]
@@ -342,5 +342,5 @@ metafile = true
 
 [[files]]
 file = "config/ftbchunks-client.snbt"
-hash = "08daf37dcf2137ec21709a17fe8d1a438d44c5b6a37fd9faceb7da36ced87469"
+hash = "947c2af01417f28e368c8421fe99399112442cd405777e33d808f7cba355ef1b"
 

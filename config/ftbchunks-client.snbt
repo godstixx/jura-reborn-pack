@@ -1,5 +1,7 @@
 {
 	minimap: {
+		large_entities: true
+		scale: 1.25d
 		entity_icon: {
 			"minecraft:allay": false
 			"minecraft:area_effect_cloud": false
