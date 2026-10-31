@@ -1,0 +1,12 @@
+name = "FDLib 1.0.9"
+filename = "fdlib-1.0.9-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/7844/741/fdlib-1.0.9-1.21.1.jar"
+hash-format = "sha1"
+hash = "03a171d170b22a04e67d2cc7894ddddd8489a295"
+
+[update.curseforge]
+file-id = 7844741
+project-id = 1271749

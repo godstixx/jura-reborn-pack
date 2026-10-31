@@ -1,0 +1,12 @@
+name = "Qliphoth Awakening 3.2"
+filename = "fdbosses-3.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8373/639/fdbosses-3.2-1.21.1.jar"
+hash-format = "sha1"
+hash = "e42079e55eb25ba1fc0b16ce86c627b7a3d36fdb"
+
+[update.curseforge]
+file-id = 8373639
+project-id = 1271707
