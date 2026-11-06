@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ambientsounds_neoforge_v6.3.11_mc1.21.1.pw.toml"
+hash = "a220fd3e46cfddafe52ed61a3fd4ecebf422fdfd9b8cc80d7d9b283024906b51"
+metafile = true
+
+[[files]]
 file = "mods/ancientartifacts-neoforge-1.0.3.pw.toml"
 hash = "ecf9b623545e617f062ec16a63d4557c9cba0bc2a4be4b71924ab99a017375ae"
 metafile = true
@@ -41,8 +46,18 @@ hash = "077508c5b07d10fec92ab9e30dec06e2ee81bd66afe654d14fcd16d1a34ddbc1"
 metafile = true
 
 [[files]]
+file = "mods/carryon-neoforge-1.21.1-2.2.6.13.pw.toml"
+hash = "58010c0e8f25b3df6d0c2f4194aabdb09af910c7ea34fbe89b77f8367481183b"
+metafile = true
+
+[[files]]
 file = "mods/cerbonsapi-neoforge-1.21-1.3.0.pw.toml"
 hash = "d8c492eaadbfd1e648e3f4431993bfaf1dffdce1eeaa6cad9577669d2c3ecbd0"
+metafile = true
+
+[[files]]
+file = "mods/chat_heads-0.15.7-neoforge-1.21.pw.toml"
+hash = "239a7d564ee40ef7ae154e84c26384bd4e3580f4dea57c31db22eeff1fa045dc"
 metafile = true
 
 [[files]]
@@ -66,6 +81,11 @@ hash = "af1cfa7acc01547d137a8775fc117d7a50eaf29338354f47156c0a52d236b253"
 metafile = true
 
 [[files]]
+file = "mods/creativecore_neoforge_v2.13.52_mc1.21.1.pw.toml"
+hash = "84713758c1c46aca4b8b002b62cbd466468676f8ae93cb6e0c32f1a5bd0aa69b"
+metafile = true
+
+[[files]]
 file = "mods/cultofazazelneoforge-1.1.4.12.pw.toml"
 hash = "c2999e0d785b67cf5c63ed875da7bead16c5c489dfb59ed3f9eaf98b0a169da8"
 metafile = true
@@ -76,6 +96,11 @@ hash = "444755ce8966665d7adeee2435ddbb8f507e9444b2cbbb3b935e772258a4acbd"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps-3.11.4-minecraft-1.21.0-neoforge.pw.toml"
+hash = "e7e399388548bf53dcc89ff5a6057de1d1dbdb90c9a377bf41da4aca91380138"
+metafile = true
+
+[[files]]
 file = "mods/easy_npc-neoforge-1.21.1-7.17.1.pw.toml"
 hash = "7e8940e17db714fc37e00adf8d17b1186d24268092d44a35117d7abaf1e59aa6"
 metafile = true
@@ -83,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/easy_npc_config_ui-neoforge-1.21.1-7.17.1.pw.toml"
 hash = "0c4f62968f51594ebde30607352407daccc78956569b3240d43c567dcf41f552"
+metafile = true
+
+[[files]]
+file = "mods/easyanvils-v21.1.0-1.21.1-neoforge.pw.toml"
+hash = "4ba92ee8e55b53a5fcdf066293b64ad9f0571ec2d3691c5659e5f4c655e88256"
 metafile = true
 
 [[files]]
@@ -181,6 +211,11 @@ hash = "decf94ca047ac6ecfdd19b88848475fcfef3b16587eb9beea57afd4fd05b5400"
 metafile = true
 
 [[files]]
+file = "mods/inventoryprofilesnext-neoforge-1.21.1-2.2.5.pw.toml"
+hash = "2484ac2a67f46f9fa6a0754e5fae83aa913bb858cd5ebc823fa464d399e4b1e7"
+metafile = true
+
+[[files]]
 file = "mods/jade-1.21.1-neoforge-15.10.6.pw.toml"
 hash = "27f0e7096a0b694839e949c0d7452cb190ec6d73bea44d968474f8889ef1fcd8"
 metafile = true
@@ -193,6 +228,16 @@ metafile = true
 [[files]]
 file = "mods/jura_codex-1.11.3.pw.toml"
 hash = "63d1b9779528a04b3ba8cf6c1d70706028b9adf844f1a5a9b858af9b29bb9956"
+metafile = true
+
+[[files]]
+file = "mods/kotlinforforge-5.12.0-all.pw.toml"
+hash = "d8c3ac0db61cbcd52fc007a8cafa239ae3a1085a270dbc37f2cc3f3aa2d23ea8"
+metafile = true
+
+[[files]]
+file = "mods/libipn-neoforge-1.21.1-6.6.3.pw.toml"
+hash = "5eb4f5b97885afbaebbb4216f27b738bdaf2329e533329bd6e0faaaa56e9ff44"
 metafile = true
 
 [[files]]
@@ -251,8 +296,23 @@ hash = "7145961098754457379c2d3837d66c57d007e542032da6ab162edf41c2e6eae5"
 metafile = true
 
 [[files]]
+file = "mods/overflowingbars-v21.1.1-1.21.1-neoforge.pw.toml"
+hash = "8bb44e770cc821b06fbc716cb25eb9d6e975648c4c3298c20240161e3fe05299"
+metafile = true
+
+[[files]]
+file = "mods/placebo-1.21.1-9.9.4.pw.toml"
+hash = "34663d7aa4fb14ce4606e23023066afbf9388c0d0ec2996d2c78451b54217402"
+metafile = true
+
+[[files]]
 file = "mods/playernbtftb-1.0.1.1.pw.toml"
 hash = "361f42059304251fb6dc8a927b4c80d74ac5a3680a7e842e71a776e175a00a80"
+metafile = true
+
+[[files]]
+file = "mods/polymorph-neoforge-1.1.0-1.21.1.pw.toml"
+hash = "770b22e6831600a601dcad67deee14a2f7d54b9dc883a95a81377a1aa8ab9858"
 metafile = true
 
 [[files]]
@@ -261,13 +321,23 @@ hash = "403110578913ed706a0fddcdd2dbf3a65be158f0dcde533220e13abacd1f7fa9"
 metafile = true
 
 [[files]]
-file = "mods/puzzleslib-v21.1.65-mc1.21.1-neoforge.pw.toml"
-hash = "e786702da6440fe3173f47398ab92bea55000ab80066a06a70d74e1d01ab0f7b"
+file = "mods/puzzleslib-v21.1.66-mc1.21.1-neoforge.pw.toml"
+hash = "db17dee2a847a9025165b27b9deb6967038ac8705c0eea3359345f8a3bb098d2"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options-neoforge-2.2.4-mc1.21.1.pw.toml"
+hash = "6145baf12cf9a4f7825f58932b16b7cf8aabb93fc831a5527bb2ff771cd94c20"
 metafile = true
 
 [[files]]
 file = "mods/searchables-neoforge-1.21.1-1.0.2.pw.toml"
 hash = "27a7fa575b51c8e5366a5faf88686603c449f82bdda5979af678103e8000615c"
+metafile = true
+
+[[files]]
+file = "mods/shouldersurfing-neoforge-1.21.1-5.3.0.pw.toml"
+hash = "54fa1ff17e1338b2698ef5fb2edf9e8c1a90b04f22eab003068f5f680e9e4d62"
 metafile = true
 
 [[files]]
@@ -283,6 +353,16 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib-neoforge-1.21.1-1.16.11.pw.toml"
 hash = "082587050d21443d25e77ccc47b75cd1d61f5401818bf7ea2462fd37a1ef3b16"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra-neoforge-0.9.5-mc1.21.1.pw.toml"
+hash = "2e8d527ac5e5d3cf4d7acd3ebfd35a41deb2be895ba46489ddd526f94db191e0"
+metafile = true
+
+[[files]]
+file = "mods/sodium-neoforge-0.8.13-mc1.21.1.pw.toml"
+hash = "a0f94ca7261c5593d760b18020609ffd802d199050e552af7938cafa86a5c505"
 metafile = true
 
 [[files]]
@@ -356,8 +436,28 @@ hash = "6421d88504a70d808d3baa3df10a1fb6540cd731af94980f0e388af13ae5a292"
 metafile = true
 
 [[files]]
+file = "mods/toastcontrol-1.21.1-9.0.1.pw.toml"
+hash = "05a041d2d412f81790efe7dd1384fe596a19e667d6523f7b5d9c25d1a74dbdf6"
+metafile = true
+
+[[files]]
 file = "mods/trarcane-neoforge-1.1.pw.toml"
 hash = "70253d7c4b2ae0470e3071ec800c79bb32970102a7248587b4bb46f0469ce80f"
+metafile = true
+
+[[files]]
+file = "mods/travelerstitles-1.21.1-neoforge-5.1.3.pw.toml"
+hash = "71e3662dd3491ecc6b8747e20f903b0d42836e9e265b43bb64a8792fde0ea380"
+metafile = true
+
+[[files]]
+file = "mods/xaerominimap-neoforge-1.21.1-26.6.0.pw.toml"
+hash = "f899986e490b5453970bb80d1d35b7af42c05b52c0e96cd9f6d009f249516161"
+metafile = true
+
+[[files]]
+file = "mods/xaeroworldmap-neoforge-1.21.1-1.47.0.pw.toml"
+hash = "33f6f307fdc5cf3a5b274c76972bd780acac6e6f01384b9d69987d3d50160f7d"
 metafile = true
 
 [[files]]

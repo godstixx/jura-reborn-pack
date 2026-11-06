@@ -1,0 +1,12 @@
+name = "Chat Heads 0.15.7"
+filename = "chat_heads-0.15.7-neoforge-1.21.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8642/154/chat_heads-0.15.7-neoforge-1.21.jar"
+hash-format = "sha1"
+hash = "536b2af675229d2a33eb4cf5afbe7148a62d5f3f"
+
+[update.curseforge]
+file-id = 8642154
+project-id = 407206
