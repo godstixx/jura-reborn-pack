@@ -226,8 +226,8 @@ hash = "12b6d0e2e590391ca60cac85504eeb866b2bd108f1101d73dc015421eabec517"
 metafile = true
 
 [[files]]
-file = "mods/jura_codex-1.11.3.pw.toml"
-hash = "63d1b9779528a04b3ba8cf6c1d70706028b9adf844f1a5a9b858af9b29bb9956"
+file = "mods/jura_codex-1.12.0.pw.toml"
+hash = "40f9208b5d9790134bd849905543389c9c4de875083ea99e8a21ace5a73de60a"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "Jura Reborn: Codex 1.12.0"
+filename = "jura_codex-1.12.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/godstixx/jura-reborn-pack/main/files/jura_codex-1.12.0.jar"
+hash-format = "sha1"
+hash = "6758f337326c331b5bbd15449c432a2d0d417819"
